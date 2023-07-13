@@ -1,0 +1,8 @@
+{
+  "name": "apple-debugging",
+  "description": "Temporary repository to help Apple replicate an issue we were running into",
+  "dependencies": {
+    "apple-signin-auth": "^1.7.5",
+    "prettier": "^3.0.0"
+  }
+}

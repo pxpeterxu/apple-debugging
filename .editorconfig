@@ -1,0 +1,6 @@
+# Keep in sync with .vscode/settings.json, which does similar things
+[*]
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+ij_javascript_import_prefer_absolute_path = false
